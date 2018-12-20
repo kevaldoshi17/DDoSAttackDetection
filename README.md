@@ -1,4 +1,4 @@
-# DDoSAttackDetection
+# DDoS Attack Detection
 This repository consists of data collected and algorithm implemented on the testbed setup in SIS Lab, at the University of South Florida.
 
 The purpose of this implementation was to test our Intrusion Detection System using a new anomaly detection algorithm called <b>Online Discrepany Test (ODIT) </b>. It has been proved that given sufficient data, ODIT performs asymptotically to the clairvoyant CUSUM algorithm and outperforms the more practical Generalized CUSUM (G-CUSUM) algorithm. 
@@ -32,7 +32,7 @@ The data is in the form of Wireshark capture, from which additional information 
 
 <h2> Implementation Video </h2>
 
-The implementation video can be viewed <a href="url">here</a>.
+The implementation video can be viewed <a href="https://youtu.be/vs5Lo-9wUUA">here</a>.
 
 <h2> Citation </h2>
 
